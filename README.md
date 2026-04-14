@@ -2,13 +2,14 @@
 
 Repositório com as atividades da disciplina de **Back-end Frameworks**.
 
-## Navegação
+## 📁 Navegação
 
-### Laboratório 1 – Laravel Playground
+### ⚙️ Laravel
 
-- 📄[Readme do Laboratório ](/laravel/lab01/Readme.md)
+- **Laboratório 1 – Laravel Playground**
+  - 📄 [README do lab](./laravel/lab01/Readme.md)
+  - 📂 [Pasta do lab](./laravel/lab01/)
 
-- 📂[Pasta do Laboratório](/laravel/lab01/)
+---
 
-<br>
 Autor: Murilo Pereira Araujo
